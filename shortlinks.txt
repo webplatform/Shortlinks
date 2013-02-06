@@ -5,6 +5,7 @@
 
 # general
 chat http://talk.webplatform.org/chat/
+events http://docs.webplatform.org/wiki/WPD:Community/Community_Events
 
 # beginner links
 tasks http://docs.webplatform.org/wiki/WPD:Most_Wanted_Tasks
