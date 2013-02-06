@@ -3,6 +3,9 @@
 ## <key>s are searched for case-insensitively
 ## <value> is passed to the browser as-is, apply encoding where needed
 
+# general
+chat http://talk.webplatform.org/chat/
+
 # beginner links
 tasks http://docs.webplatform.org/wiki/WPD:Most_Wanted_Tasks
 start http://docs.webplatform.org/wiki/WPD:Getting_Started
