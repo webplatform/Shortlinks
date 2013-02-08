@@ -4,6 +4,8 @@
 ## <value> is passed to the browser as-is, apply encoding where needed
 
 ## NOTE: PUT THE KEYS IN LOWERCASE !!
+## just to be clear: they need to be lowercase here,
+## but will work in any case in the URL
 
 # general
 chat http://talk.webplatform.org/chat/
