@@ -3,11 +3,13 @@
 ## <key>s are searched for case-insensitively
 ## <value> is passed to the browser as-is, apply encoding where needed
 
+## NOTE: PUT THE KEYS IN LOWERCASE !!
+
 # general
 chat http://talk.webplatform.org/chat/
 events http://docs.webplatform.org/wiki/WPD:Community/Community_Events
-EdGd http://docs.webplatform.org/wiki/WPD:Editors_Guide
-StStr http://docs.webplatform.org/wiki/Meta:Editors_Guide/Topic_Hierarchy
+edgd http://docs.webplatform.org/wiki/WPD:Editors_Guide
+ststr http://docs.webplatform.org/wiki/Meta:Editors_Guide/Topic_Hierarchy
 
 # beginner links
 tasks http://docs.webplatform.org/wiki/WPD:Most_Wanted_Tasks
@@ -16,7 +18,7 @@ start http://docs.webplatform.org/wiki/WPD:Getting_Started
 # Doc Sprint Berlin Feb 2013
 berlin http://docs.webplatform.org/wiki/community/berlin_feb_2013
 tracking https://docs.google.com/spreadsheet/viewform?formkey=dG10eHhrQ0lOMVhmanZ2Q3dUWUwxQ0E6MQ#gid=2
-APIpr http://docs.webplatform.org/wiki/WPD:Proposals/api_docs
-APIgd http://docs.webplatform.org/wiki/WPD:Creating_API_pages
-CSSpr http://docs.webplatform.org/wiki/WPD:Tasks/CSS_Property_Milestone
-CSSgd http://docs.webplatform.org/wiki/WPD:CSS_property_guide
+apipr http://docs.webplatform.org/wiki/WPD:Proposals/api_docs
+apigd http://docs.webplatform.org/wiki/WPD:Creating_API_pages
+csspr http://docs.webplatform.org/wiki/WPD:Tasks/CSS_Property_Milestone
+cssgd http://docs.webplatform.org/wiki/WPD:CSS_property_guide
