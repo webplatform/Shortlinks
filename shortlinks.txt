@@ -13,6 +13,7 @@ events http://docs.webplatform.org/wiki/WPD:Community/Community_Events
 edgd http://docs.webplatform.org/wiki/WPD:Editors_Guide
 ststr http://docs.webplatform.org/wiki/Meta:Editors_Guide/Topic_Hierarchy
 box http://docs.webplatform.org/wiki/WPD:Doc_Sprints
+pointerevents http://docs.webplatform.org/wiki/PointerEvents
 
 # beginner links
 tasks http://docs.webplatform.org/wiki/WPD:Most_Wanted_Tasks
