@@ -26,3 +26,6 @@ apipr http://docs.webplatform.org/wiki/WPD:Proposals/api_docs
 apigd http://docs.webplatform.org/wiki/WPD:Creating_API_pages
 csspr http://docs.webplatform.org/wiki/WPD:Tasks/CSS_Property_Milestone
 cssgd http://docs.webplatform.org/wiki/WPD:CSS_property_guide
+
+# Doc Sprint Zurich Aug 2013
+zurich http://wpds-zurich.eventbrite.com/
