@@ -31,4 +31,4 @@ cssgd http://docs.webplatform.org/wiki/WPD:CSS_property_guide
 zurich http://docs.webplatform.org/wiki/community/zurich_aug_2013
 htmlpr http://docs.webplatform.org/wiki/WPD:Projects/HTML_Element_Milestone
 htmlgd http://docs.webplatform.org/wiki/WPD:HTML_Element_Guide
-
+example http://webplatform.org/?pk_campaign=WPDS-201309-Example
