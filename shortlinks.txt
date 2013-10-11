@@ -32,3 +32,4 @@ zurich http://docs.webplatform.org/wiki/community/zurich_aug_2013
 htmlpr http://docs.webplatform.org/wiki/WPD:Projects/HTML_Element_Milestone
 htmlgd http://docs.webplatform.org/wiki/WPD:HTML_Element_Guide
 example http://webplatform.org/?pk_campaign=WPDS-201309-Example
+amsterdam http://docs.webplatform.org/wiki/community/amsterdam_oct_2013?pk_campaign=DocSprint-Amsterdam-2013&pk_kwd=wpdmx
