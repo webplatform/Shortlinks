@@ -38,3 +38,4 @@ amsterdam http://docs.webplatform.org/wiki/community/amsterdam_oct_2013?pk_campa
 
 # Doc Sprint Düsseldorf May 2014
 dusjs https://gist.github.com/rodneyrehm/b39aa66351bbd3e2371c
+dushtml http://docs.webplatform.org/wiki/Meta:web_platform_wednesday/html_elements
