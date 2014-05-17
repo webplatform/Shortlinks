@@ -40,3 +40,5 @@ amsterdam http://docs.webplatform.org/wiki/community/amsterdam_oct_2013?pk_campa
 dusjs https://gist.github.com/rodneyrehm/b39aa66351bbd3e2371c
 dushtml http://docs.webplatform.org/wiki/Meta:web_platform_wednesday/html_elements
 dusdwyw https://docs.google.com/spreadsheets/d/1oNlctt17l9zjEg-2uQvzfDPcXDaR0PdWQWvJaz3yG6Q/edit?usp=sharing
+dushtmlsvg https://gist.github.com/anselmh/a9ce8154f1ca3e41d3c0
+duscss https://gist.github.com/Schepp/ac6a6a653e434bd4beb6
