@@ -44,4 +44,8 @@ dushtmlsvg https://gist.github.com/anselmh/a9ce8154f1ca3e41d3c0
 duscss https://gist.github.com/Schepp/ac6a6a653e434bd4beb6
 
 # Doc Sprint Amsterdam Okt 2014
-amshtml http://docs.webplatform.org/wiki/Meta:web_platform_wednesday/html_elements
+amsterdam2 http://docs.webplatform.org/wiki/community/amsterdam_oct_2014
+amsstates http://docs.webplatform.org/wiki/Property:State
+amsalmost http://docs.webplatform.org/w/index.php?title=Special:SearchByProperty&property=State&value=Almost+Ready
+amscompat https://github.com/webplatform/compatibility-data
+amslist https://docs.google.com/spreadsheets/d/1YGD7W-Ie_NYQCCBoovt8mFyDu6Va8o3JZViPRQKzV1g/edit?usp=sharing
